@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Speedtest by Ookla</title>
+  <link rel="stylesheet" href="styless.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#Working">Working</a></li>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="head">
+    <div class="head-content">
+      <h1>Speedtest</h1>
+      <h2>Test Your Internet Speed</h2>
+      <p>Measure your download, upload, and ping speeds with our accurate and reliable speed test.</p>
+      <a href="https://www.speedtest.net/" class="cta-btn">Start Test</a>
+    </div>
+  </section>
+
+  <section id="about">
+    <div class="about-content">
+      <h2>About Speedtest</h2>
+      <p>Speedtest by Ookla is the global leader in internet performance testing and analysis. With our easy-to-use and accurate speed test, you can measure the speed and quality of your internet connection.</p>
+    </div>
+  </section>
+
+  <section id="Working">
+    <div class="Working-content">
+      <h2>Working</h2>
+      <p>Using Speedtest is simple:</p>
+      <ul>
+        <li>Click the "Start Test" button below.</li>
+        <li>Our test will measure your download, upload, and ping speeds.</li>
+        <li>View your test results and analyze your internet connection.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="features">
+    <div class="features-content">
+      <h2>Features</h2>
+      <ul>
+        <li>Accurate speed measurements</li>
+        <li>Detailed test results with download, upload, and ping speeds</li>
+        <li>Global test server network for accurate results</li>
+        <li>Share your test results with others</li>
+        <li>Track your test history and see how your speeds change over time</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="contact">
+    <div class="contact-content">
+      <h2>Contact Us</h2>
+      <p>If you have any questions or feedback, we would love to hear from you. Get in touch with our support team.</p>
+      <a href="mailto:support@speedtest.com" class="cta-btn">Contact Support</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2023 Speedtest by Ookla</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
